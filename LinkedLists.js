@@ -23,7 +23,7 @@ Data structures such as stack and queues can be easily implemented using linked 
 /* Disadvantages - 
 Memory Usage
 
-More memory is required to store elements in linked list as compared to array. Because in linked list each node contains a pointer and it requires extra memory for itself.
+More memory is required to store elements in linked list as compared to array. This is due to the fact that in linked list each node contains a pointer and it requires extra memory for itself.
 
 Traversal
 
@@ -35,4 +35,9 @@ In linked list reverse traversing is really difficult. In case of doubly linked 
 */
 
 // Real World Examples
+/* There are plenty of examples of linked lists in the real world, such as waiting in a line, a conga line, and plate dispensers. These all operate on a FIFO principle and are reliant on what happens to the nodes infront for traversal. 
+*/
 // Pseudocode
+/*
+
+*/ 

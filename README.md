@@ -15,4 +15,4 @@ Tree - A JavaScript tree is a special data structure that implements the hierarc
 
 Graph - A graph is a group of a finite number of vertices and edges that connect these vertices. The edges can be ‘directed’ (directed graph) and ‘undirected’ (undirected graph). Unlike trees, who maintain a parent-child relationship between their nodes (vertices), the nodes of the graph maintain a complex relationship among them.
 
-Hash Table - A graph is a group of a finite number of vertices and edges that connect these vertices. The edges can be ‘directed’ (directed graph) and ‘undirected’ (undirected graph). Unlike trees, who maintain a parent-child relationship between their nodes (vertices), the nodes of the graph maintain a complex relationship among them.
+Hash Table - Hash Table is a data structure which stores data in an associative manner. In a hash table, data is stored in an array format, where each data value has its own unique index value. Access of data becomes very fast if we know the index of the desired data.
